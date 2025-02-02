@@ -53,6 +53,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1Ziad-Etman1&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=1Ziad-Etman1&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=1Ziad-Etman1&style=for-the-badge">
-</a>
+
