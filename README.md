@@ -12,12 +12,12 @@
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🌱 Currently learning about algorithms and data structures.
-- 💡 Exploring web development with a focus on React.js.
+- 💡 Exploring web development with a focus on React.js and .NET.
 - 🤖 Interested in artificial intelligence and machine learning.
 - 📚 Constantly reading and experimenting to expand my knowledge.
-- 🌐 Crafting web experiences with HTML, CSS, and React.
+- 🌐 Crafting web experiences with HTML, CSS, React and .NET.
 
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, ReactJS, and .NET, or anything related to web development.
 
 
 ### Connect with Me :
@@ -31,8 +31,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=512BD4)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
